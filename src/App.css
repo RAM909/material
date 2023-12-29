@@ -1,0 +1,23 @@
+.searchWrapper {
+    border: 1px solid #353757;
+    border-radius: 4px;
+    min-height: 22px;
+    padding: 5px;
+    position: relative;
+    background: #2e304a;
+}
+
+.modal-body__content{
+    width: 100%;
+}
+
+.multiSelectContainer input {
+    color: #a5a6ad;
+    background: transparent;
+    border: none;
+    margin-top: 3px;
+}
+
+.invisible{
+    display: none;
+}
